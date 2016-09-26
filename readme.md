@@ -13,14 +13,22 @@ A curated list of awesome Fertility Awareness Method (FAM) tools and resources.
 
 ## Devices Available Now
 
-* [Kindara Wink Thermometer](https://kindara.com/wink#prevention) [iOS, Android] - `CSV`
+* [Kindara Wink Thermometer](https://kindara.com/wink#prevention) [iOS, Android] - Must use `Kindara App`
 * [Ava Women Bracelet](http://www.avawomen.com/)
 * [YONO Thermometer](https://www.yonolabs.com/product/yono/) [iOS, Android]
 
-> ProTip: Possible data to add - Cost, data export filetypes, charging method (USB, battery), connection method (WiFi, Bluetooth), type of thermometer sensor (ear, mouth, arm)
+> ProTip: Possible data to add - Cost, data export filetypes, charging method (USB, battery), connection method (WiFi, Bluetooth), type of thermometer sensor (ear, mouth, arm), compatible apps
 
 ## Devices To Watch For
+* [TempDrop Arbband](http://tempdrop.xyz/pages/apps) [iOS, Anrdroid] 
 * [Priya Ring](http://priyaring.com/)
+
+## Questions to ask a FAM app/product:
+1. Can users export temperature, date and cycle data in CSV format through your website?
+2. Will you have a public API (application programming interface)?
+3. Where is your Developer page? What is your GitHub? 
+4. What is required for your thermometer/device: Bluetooth, WiFi, power (battery, USB)?
+
 
 ## Books
 
