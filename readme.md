@@ -10,6 +10,8 @@ A curated list of awesome Fertility Awareness Method (FAM) tools and resources.
 
 > ProTip: Add a name, URL, what mobile devices and what data format is available for export
 
+## Tracker Tools
+* [Flo: Google Calendar integration](https://github.com/SaraChicaD/flo) - A Google Calendar and Angular JS app to allow women to more effectively track their menstrual cycles in a way that's convenient and gels with the way they track the rest of their lives.
 
 ## Devices Available Now
 
@@ -28,6 +30,7 @@ A curated list of awesome Fertility Awareness Method (FAM) tools and resources.
 2. Will you have a public API (application programming interface)?
 3. Where is your Developer page? What is your GitHub? 
 4. What is required for your thermometer/device: Bluetooth, WiFi, power (battery, USB)?
+5. iOS App: Does your tracking app back up temperatures and cycle data to Apple Health?
 
 
 ## Books
