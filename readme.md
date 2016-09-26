@@ -8,9 +8,28 @@ A curated list of awesome Fertility Awareness Method (FAM) tools and resources.
 
 * [Kindara](https://app.kindara.com/#export) [iOS, Android] - `CSV`
 
-## Thermometer
+> ProTip: Add a name, URL, what mobile devices and what data format is available for export
 
-## Other
+
+## Devices Available Now
+
+* [Kindara Wink Thermometer](https://kindara.com/wink#prevention) [iOS, Android] - `CSV`
+* [Ava Women Bracelet](http://www.avawomen.com/)
+* [YONO Thermometer](https://www.yonolabs.com/product/yono/) [iOS, Android]
+
+> ProTip: Possible data to add - Cost, data export filetypes, charging method (USB, battery), connection method (WiFi, Bluetooth), type of thermometer sensor (ear, mouth, arm)
+
+## Devices To Watch For
+* [Priya Ring](http://priyaring.com/)
+
+## Books
+
+* [Taking Charge of Your Fertility](http://www.tcoyf.com/taking-charge-of-your-fertility/) - Official book website, [Library catalog](http://www.worldcat.org/title/taking-charge-of-your-fertility-the-definitive-guide-to-natural-birth-control-pregnancy-achievement-and-reproductive-health/oclc/51108023)
+
+
+## Communities
+* [Fertility Awareness](https://www.facebook.com/groups/fertilityawaress/) [Facebook]
+
 
 ## Contributing
 
