@@ -9,6 +9,7 @@
 ```
 * [Link name](http://...) - Optional description sentence goes here.
 * [Mobile application name](http://...) - [iOS, Android] - Optional description sentence goes here.
+* [Mobile application name](http://...) - [iOS, Android] - `.exportable-data-format`
 ```
 
 5. Add a commit message and make a Pull Request.
