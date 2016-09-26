@@ -2,13 +2,14 @@
 
 A curated list of awesome Fertility Awareness Method (FAM) tools and resources.
 
-## Tracker Apps
+## Tracker Mobile Applications
 
-> Why are these apps awesome? Apps that allow you to easily export and import cycle data and/or have Application Programming Interfaces (APIs) that allow people to access data programmatically
+> Why are these apps awesome? Apps that allow you to track temperature data and easily export that data and/or have Application Programming Interfaces (APIs) that allow people to access data programmatically
 
-* [Kindara](https://app.kindara.com/#export) [iOS, Android] - `CSV`
+* [Kindara](https://app.kindara.com/#export) [iOS, Android] - `.csv` from web interface
+* [Clue](https://www.helloclue.com/) [iOS, Android]
 
-> ProTip: Add a name, URL, what mobile devices and what data format is available for export
+> ProTip: Add a name, URL, compatible mobile devices and data file formats (eg. `.csv`, `.txt` available for export)
 
 ## Tracker Tools
 * [Flo: Google Calendar integration](https://github.com/SaraChicaD/flo) - [Web] - A Google Calendar and Angular JS app to allow women to more effectively track their menstrual cycles in a way that's convenient and gels with the way they track the rest of their lives.
@@ -21,26 +22,22 @@ A curated list of awesome Fertility Awareness Method (FAM) tools and resources.
 
 > ProTip: Possible data to add - Cost, data export filetypes, charging method (USB, battery), connection method (WiFi, Bluetooth), type of thermometer sensor (ear, mouth, arm), compatible apps
 
-## Devices To Watch For
+## Devices to Watch for
 * [TempDrop Arbband](http://tempdrop.xyz/pages/apps) [iOS, Anrdroid]
 * [Priya Ring](http://priyaring.com/)
 
-## Questions to ask a FAM app/product:
+## Questions to ask a commercial FAM tool:
 1. Can users export temperature, date and cycle data in CSV format through your website?
 2. Will you have a public API (application programming interface)?
 3. Where is your Developer page? What is your GitHub?
 4. What is required for your thermometer/device: Bluetooth, WiFi, power (battery, USB)?
 5. iOS App: Does your tracking app back up temperatures and cycle data to Apple Health?
 
-
-## Books
-
+## Book
 * [Taking Charge of Your Fertility](http://www.tcoyf.com/taking-charge-of-your-fertility/) - Official book website, [Library catalog](http://www.worldcat.org/title/taking-charge-of-your-fertility-the-definitive-guide-to-natural-birth-control-pregnancy-achievement-and-reproductive-health/oclc/51108023)
-
 
 ## Communities
 * [Fertility Awareness](https://www.facebook.com/groups/fertilityawaress/) [Facebook]
-
 
 ## Contributing
 
@@ -48,7 +45,6 @@ If you want to contribute by adding to this list, please read the [contribution 
 
 ## License
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
-
 
 ## How to make your own awesome list
 ```
