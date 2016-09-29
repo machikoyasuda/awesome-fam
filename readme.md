@@ -26,7 +26,7 @@ A curated list of awesome Fertility Awareness Method (FAM) tools and resources.
 > ProTip: Possible data to add - Cost, data export filetypes, charging method (USB, battery), connection method (WiFi, Bluetooth), type of thermometer sensor (ear, mouth, arm), compatible apps
 
 ## Devices to Watch for
-* [TempDrop Arbband](http://tempdrop.xyz/pages/apps) [iOS, Anrdroid]
+* [TempDrop Armband](http://tempdrop.xyz/pages/apps) [iOS, Android]
 * [Priya Ring](http://priyaring.com/)
 
 ## Book
