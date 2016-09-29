@@ -1,0 +1,22 @@
+{
+  "name": "awesome-fam",
+  "version": "1.0.0",
+  "description": "A curated list of awesome Fertility Awareness Method (FAM) tools and resources.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node tests/whitespace_test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/machikoyasuda/awesome-fam.git"
+  },
+  "author": "Machiko Yasuda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/machikoyasuda/awesome-fam/issues"
+  },
+  "homepage": "https://github.com/machikoyasuda/awesome-fam#readme",
+  "dependencies": {
+    "markdownlint": "^0.0.7"
+  }
+}
