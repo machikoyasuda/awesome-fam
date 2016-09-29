@@ -41,17 +41,3 @@ If you want to contribute by adding to this list, please read the [contribution 
 
 ## License
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
-
-## How to make your own awesome list
-```
-mkdir awesome-<name>
-cd awesome-<name>
-touch readme.md
-touch awesome-<name>.md
-touch contributing.md
-git init
-git add .
-git commit "First commit."
-git remote add origin <github-url>
-git push -u origin master
-```
