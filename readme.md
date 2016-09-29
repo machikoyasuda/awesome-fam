@@ -29,13 +29,6 @@ A curated list of awesome Fertility Awareness Method (FAM) tools and resources.
 * [TempDrop Arbband](http://tempdrop.xyz/pages/apps) [iOS, Anrdroid]
 * [Priya Ring](http://priyaring.com/)
 
-## Questions to ask a commercial FAM tool:
-1. Can users export temperature, date and cycle data in CSV format through your website?
-2. Will you have a public API (application programming interface)?
-3. Where is your Developer page? What is your GitHub?
-4. What is required for your thermometer/device: Bluetooth, WiFi, power (battery, USB)?
-5. iOS App: Does your tracking app back up temperatures and cycle data to Apple Health?
-
 ## Book
 * [Taking Charge of Your Fertility](http://www.tcoyf.com/taking-charge-of-your-fertility/) - Official book website, [Library catalog](http://www.worldcat.org/title/taking-charge-of-your-fertility-the-definitive-guide-to-natural-birth-control-pregnancy-achievement-and-reproductive-health/oclc/51108023)
 
