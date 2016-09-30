@@ -26,3 +26,11 @@ cd ..
 npm install
 npm test
 ```
+
+## A successful test run looks like
+```➜  awesome-fam git:(master) npm test
+
+> awesome-fam@1.0.0 test /Users/goat/lists/awesome-fam
+> node tests/whitespace_test.js
+
+Pass```
