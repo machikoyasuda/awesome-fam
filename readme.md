@@ -35,6 +35,8 @@ A curated list of awesome Fertility Awareness Method (FAM) tools and resources.
 ## Communities
 * [Fertility Awareness](https://www.facebook.com/groups/fertilityawaress/) [Facebook]
 
+## Reports
+* [Fertility Awareness Method Report Card](http://blog.kindara.com/2014-fertility-awareness-method-report-card-by-kindara)
 ## Contributing
 
 If you want to contribute by adding to this list, please read the [contribution guidelines](CONTRIBUTING.md).
