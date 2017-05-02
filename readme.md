@@ -38,6 +38,10 @@ A curated list of awesome Fertility Awareness Method (FAM) tools and resources.
 ## Reports 💯
 * [Fertility Awareness Method Report Card](http://blog.kindara.com/2014-fertility-awareness-method-report-card-by-kindara)
 
+## Academic Research on apps
+* [Examining Menstrual Tracking
+to Inform the Design of Personal Informatics Tool](http://www.depstein.net/pubs/depstein_chi17.pdf), DUB Group, University of Washington - May 2017
+
 ## Contributing ✏️
 
 If you want to contribute by adding to this list, please read the [contribution guidelines](CONTRIBUTING.md).
