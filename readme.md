@@ -38,9 +38,11 @@ A curated list of awesome Fertility Awareness Method (FAM) tools and resources.
 ## Reports 💯
 * [Fertility Awareness Method Report Card](http://blog.kindara.com/2014-fertility-awareness-method-report-card-by-kindara)
 
-## Academic Research on apps
+## Research about apps
 * [Examining Menstrual Tracking
 to Inform the Design of Personal Informatics Tool](http://www.depstein.net/pubs/depstein_chi17.pdf), DUB Group, University of Washington - May 2017
+* [Five things to think about when designing a period-tracking app](https://medium.com/hci-design-at-uw/five-things-to-think-about-when-designing-a-period-tracking-app-9a79ac7cf446), Nikki Lee and Daniel Epstein, DUB Group, University of Washington - Feb 2017
+* [What can we learn from period tracking?](https://medium.com/hci-design-at-uw/what-can-we-learn-from-period-tracking-23d98e544255), Nikki Lee and Daniel Epstein, DUB Group, University of Washington - Feb 2017
 
 ## Contributing ✏️
 
