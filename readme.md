@@ -17,13 +17,17 @@ A curated list of awesome Fertility Awareness Method (FAM) tools and resources.
 ## API (Application Programming Interface) Wrappers 🤖
 * [Kindara: Ruby API](https://github.com/machikoyasuda/kindara-client-gem) - [Ruby] - API Wrapper in Ruby to access Kindara data programmatically
 
-## Devices Available Now 🌡
+## Tracker Thermometer Devices 🌡
 
 * [Kindara Wink Thermometer](https://kindara.com/wink#prevention) [iOS, Android] - Must use `Kindara App`
 * [Ava Women Bracelet](http://www.avawomen.com/)
 * [YONO Thermometer](https://www.yonolabs.com/product/yono/) [iOS, Android]
 
 > ProTip: Possible data to add - Cost, data export filetypes, charging method (USB, battery), connection method (WiFi, Bluetooth), type of thermometer sensor (ear, mouth, arm), compatible apps
+
+## Tracker Thermometer Devices that have shut down
+
+* [Ovatemp](http://mailchi.mp/ovatemp/important-announcement-from-ovatemp?e=63fba651c7) [iOS, wireless thermometer] - Shut down announcement: May 5, 2017, App shut down date: May 31, 2017, Data shut down date: 6 months from May 31, 2017, Content migrating to: https://medium.com/@anamayer 
 
 ## Devices to Watch for ❔
 * [TempDrop Armband](http://tempdrop.xyz/pages/apps) [iOS, Android]
