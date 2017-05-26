@@ -11,6 +11,10 @@ A curated list of awesome Fertility Awareness Method (FAM) tools and resources.
 
 > ProTip: Add a name, URL, compatible mobile devices and data file formats (eg. `.csv`, `.txt` available for export)
 
+## Tracker Web Interfaces
+
+* [Kindara](https://app.kindara.com/) - view cycles, view days, export data. cannot update data.
+
 ## Tracker Tools 🖥
 * [Flo: Google Calendar integration](https://github.com/SaraChicaD/flo) - [Web] - A Google Calendar and Angular JS app to allow women to more effectively track their menstrual cycles in a way that's convenient and gels with the way they track the rest of their lives.
 
